@@ -5,4 +5,4 @@ npm install
 
 npm start
 
-NOTE: search for US countries only.
+NOTE: search for US cities only.
