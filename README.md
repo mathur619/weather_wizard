@@ -4,3 +4,5 @@
 npm install
 
 npm start
+
+NOTE: search for US countries only.
