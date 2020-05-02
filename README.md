@@ -1,8 +1,12 @@
 # Weather Wizard
 
-### how to get started
-npm install
+Implemented using ReactJS.
 
-npm start
+User can search for a city and with the use of
+OpenWeather API, the results will be shown in
+the form of graphs. 3 graphs will be presented,
+namely, temperature, pressure and humidity,
+which will show the details for past 5 days with
+the mean of every attribute.
 
-NOTE: search for US cities only.
+Note: Search for US cities only.
